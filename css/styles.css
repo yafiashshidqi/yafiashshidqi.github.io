@@ -85,8 +85,10 @@ nav ul {
 /* Seleksi Gambar */
 
 .foto-profile {
-    width: 40%;
+    width: 45%;
     border-radius: 50%;
+    padding: 5px;
+    border: solid 4px #3d84a8;
 }
 
 .costum-img1 {
