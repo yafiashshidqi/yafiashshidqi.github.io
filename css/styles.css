@@ -31,10 +31,10 @@ h3 {
 
 .nav-profile {
     border-radius: 50%;
-    border: solid 4px white;
-    width: 20%;
+    border: solid 5px white;
+    width: 8%;
     position: absolute;
-    margin-left: -155%;
+    margin-left: -45%;
     margin-top: -5%;
 }
 
