@@ -1,0 +1,146 @@
+/* Seleksi Utama */
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #48466d;
+}
+
+h1 {
+    color: #3d84a8;
+    font-size: 56px;
+    margin-top: 0;
+    font-family: 'Pacifico', cursive;
+    font-weight: lighter;
+}
+
+h2 {
+    color: #3d84a8;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif
+}
+
+h3 {
+    color: #3d84a8;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif
+}
+
+/* Seleksi Navigasi */
+
+.nav-profile {
+    border-radius: 50%;
+    border: solid 4px white;
+    width: 20%;
+    position: absolute;
+    margin-left: -155%;
+    margin-top: -5%;
+}
+
+nav {
+    text-align: right;
+    position: absolute;
+    right: 3%;
+    top: 5%;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 15px;
+} 
+
+.nav-menu {
+    color: #3d84a8;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.nav-footer {
+    color: #3d84a8;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+nav ul {
+    padding: 0 20px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+}
+
+.footer-link {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: #5f5f5f;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.garis {
+    color: #3d84a8;
+    font-weight: bold;
+}
+
+/* Seleksi Gambar */
+
+.foto-profile {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.costum-img1 {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+
+.costum-img2 {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* Garis Antara Konten */
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #abedd8;
+    border-width: 7px;
+    width: 7%;
+}
+
+.hr-garis {
+    margin-bottom: 7%;
+}
+
+/* Seleksi Posisi Konten */
+
+.profile {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #abedd8;
+    position: relative;
+    padding-top: 100px;
+}
+
+.mid-container {
+}
+
+.bottom-container {
+    background-color: #abedd8;
+    padding: 35px 0 10px 0;
+}
